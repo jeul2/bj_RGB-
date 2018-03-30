@@ -21,6 +21,9 @@
     <ClCompile Include="RGB거리 정련.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1_RGB distance.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
